@@ -8,7 +8,7 @@
 	url = https://github.com/ASISaga/leadership-agent
 
 [submodule "FineTunedLLM"]
-	path = RealmOfAgents/FineTunedLLM
+	path = agents/FineTunedLLM
 	url = https://github.com/ASISaga/FineTunedLLM
 
 [submodule "SelfLearningAgent"]
@@ -16,11 +16,11 @@
 	url = https://github.com/ASISaga/SelfLearningAgent
 
 [submodule "PossibilityAgent"]
-	path = RealmOfAgents/PossibilityAgent
+	path = agents/PossibilityAgent
 	url = https://github.com/ASISaga/PossibilityAgent
 
 [submodule "PurposeDrivenAgent"]
-	path = RealmOfAgents/PurposeDrivenAgent
+	path = agents/PurposeDrivenAgent
 	url = https://github.com/ASISaga/PurposeDrivenAgent
 
 [submodule "GitHubAgent"]
@@ -28,13 +28,16 @@
 	url = https://github.com/ASISaga/GitHubAgent
 
 [submodule "LeadershipAgent"]
-	path = RealmOfAgents/LeadershipAgent
+	path = agents/LeadershipAgent
 	url = https://github.com/ASISaga/LeadershipAgent
 
 [submodule "Seeker"]
-	path = RealmOfAgents/Seeker
+	path = agents/Seeker
 	url = https://github.com/ASISaga/Seeker
 
 [submodule "Poet"]
-	path = RealmOfAgents/Poet
+	path = agents/Poet
 	url = https://github.com/ASISaga/Poet
+[submodule "GithubAgent"]
+	path = agents/GithubAgent
+	url = https://github.com/ASISaga/GithubAgent
